@@ -40,6 +40,7 @@ An index of repositories containing architectural plans, blueprints, project spe
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **Agent Journal** | Planning/spec for an agent journaling system | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Journal) |
 | **Agentic AI Architecture Visualisation** | Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation) |
 | **Context Waterfall Architecture Notes** | A model for routing contextual data into vector storage for use with LLMs | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes) |
 
