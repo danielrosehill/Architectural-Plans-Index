@@ -11,7 +11,6 @@ An index of repositories containing architectural plans, blueprints, project spe
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Agent Wiki Idea** | Notes/prior-art for a wiki whose primary readers and writers are AI agents over MCP, not humans | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Wiki-Idea) |
 | **AI Model Manager** | Planning/WIP repo for AI model manager | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Model-Manager) |
 | **AI Sysadmin** | Desktop maintenance utility (WIP/planning notes) | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Sysadmin) |
 | **AI Workspace Planning Notes** | Spec/notes for an AI workspace including consolidation of previous notes | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes) |
