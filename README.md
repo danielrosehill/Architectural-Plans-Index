@@ -7,6 +7,8 @@
 
 An index of repositories containing architectural plans, blueprints, project specifications, and design documents for software and hardware projects. These repos capture planning notes, WIP ideas, and specs — often before (or instead of) full implementation.
 
+**Last Updated:** October 2026
+
 ## Project Plans & Specifications
 
 | Project | Description | Links |
@@ -14,10 +16,8 @@ An index of repositories containing architectural plans, blueprints, project spe
 | **AI Model Manager** | Planning/WIP repo for AI model manager | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Model-Manager) |
 | **AI Sysadmin** | Desktop maintenance utility (WIP/planning notes) | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Sysadmin) |
 | **AI Workspace Planning Notes** | Spec/notes for an AI workspace including consolidation of previous notes | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes) |
-| **Claude Linux Desktop Manager** | WIP/Plan: extension of slash commands to an actual GUI/program | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager) |
 | **Claude Rescue** | WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTY/shell | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Rescue) |
 | **Claude Spec Starter** | Pattern for AI-assisted development starting from one long user prompt | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Spec-Starter) |
-| **Claude Task Manager** | WIP/Planning — tracking system for Claude Code | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Task-Manager) |
 | **Client Update Pipeline Notes** | Planning notes for a concept agentic emailing pipeline | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Client-Update-Pipeline-Notes) |
 | **Dictation Macropad** | Plan/key allocation for a macropad optimised for heavy daily dictation workflows | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Dictation-Macropad) |
 | **Heads Up Dash 0925** | Planning notes for a personal dashboard (09/25) | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Heads-Up-Dash-0925) |
@@ -48,7 +48,6 @@ An index of repositories containing architectural plans, blueprints, project spe
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Project Planning Template** | Repository template for an "idea parking" system that uses AI to spec out an initial idea and spec for later iteration/development | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Project-Planning-Template) |
 | **Voice Spec Driven Development Demo** | Demonstrating a voice-to-text spec-driven development workflow | [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Spec-Driven-Development-Demo) |
 
 ---
